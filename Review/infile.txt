@@ -1,0 +1,5 @@
+Lynn 8.5
+Chris 7.8
+John 7.5
+Lisa 9.2
+Sean 8.9
